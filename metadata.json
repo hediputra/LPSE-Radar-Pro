@@ -1,0 +1,6 @@
+{
+  "name": "LPSE Radar PRO - PT Fas B2B SaaS Platform",
+  "description": "Platform SaaS B2B Multi-Tenant Intelijen & Integrator Tender Pengadaan LPSE Indonesia dikembangkan oleh PT Fas Technology Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
